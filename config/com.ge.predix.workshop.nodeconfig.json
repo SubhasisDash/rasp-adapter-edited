@@ -1,0 +1,27 @@
+[
+   {
+     "nodeName": "Light:TAE",  
+     "nodeType": "Light",
+     "nodePin": 1
+   },
+   {  
+      "nodeName": "RotaryAngle:TAE",  
+      "nodeType": "RotaryAngle",  
+      "nodePin": 2
+   },
+   {  
+      "nodeName": "Temperature:BENGALURU-1FODC01",  
+      "nodeType": "Temperature",  
+      "nodePin": 7
+   },
+   {  
+      "nodeName": "Humidity:BENGALURU-1FODC01",  
+      "nodeType": "Humidity",  
+      "nodePin": 7
+   },
+   {  
+      "nodeName": "Button:TAE",  
+      "nodeType": "Button",  
+      "nodePin": 4
+   }
+]
